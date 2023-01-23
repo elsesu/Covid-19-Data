@@ -1,2 +1,2 @@
 # Covid-19-Data
-PowerBi covid19 report
+This repo contains a powerBi report using covid19 data gotten from WHO
